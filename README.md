@@ -1,14 +1,30 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:2b2b2b&height=4&width=1000" width="100%" alt=""/>
+
+<br/>
+
 # Atharva Vavhal
 
-**Java Backend Engineer · Full-Stack Developer · Software Engineer**
+<sub>JAVA BACKEND ENGINEER &nbsp;·&nbsp; FULL-STACK DEVELOPER &nbsp;·&nbsp; SOFTWARE ENGINEER</sub>
+
+<br/>
+<br/>
 
 Building backend-heavy systems on Java and Spring Boot, with full-stack products and applied AI on the side.
+<br/>
 B.Tech Computer Engineering, VIT Pune · Class of 2029
+
+<br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-vavhal/)
 [![GitHub](https://img.shields.io/badge/GitHub-141414?style=flat-square&logo=github&logoColor=white)](https://github.com/AtharvaVavhal)
+
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:2b2b2b&height=4&width=1000" width="100%" alt=""/>
 
 </div>
 
@@ -31,9 +47,9 @@ A modular ERP system being engineered for **Spidosoft Technologies OPC Pvt. Ltd.
 
 The system is architected as a modular monolith — React/TypeScript frontend, Java/Spring Boot backend, MySQL persistence — with the request lifecycle, security model, and module boundaries fully designed before implementation began. The React/TypeScript frontend foundation and a deployed landing experience are live; the Spring Boot backend, authentication, and master-data modules are in active development against that design.
 
-`React 19` `TypeScript` `Vite` — backend: `Java 21` `Spring Boot` `MySQL` (in progress)
+<img src="https://img.shields.io/badge/React_19-141414?style=flat-square&logo=react&logoColor=61DAFB" height="20"/> <img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square&logo=typescript&logoColor=3178C6" height="20"/> <img src="https://img.shields.io/badge/Vite-141414?style=flat-square&logo=vite&logoColor=646CFF" height="20"/> <img src="https://img.shields.io/badge/Java_21-141414?style=flat-square&logo=openjdk&logoColor=ED8B00" height="20"/> <img src="https://img.shields.io/badge/Spring_Boot-141414?style=flat-square&logo=springboot&logoColor=6DB33F" height="20"/> <img src="https://img.shields.io/badge/MySQL-141414?style=flat-square&logo=mysql&logoColor=4479A1" height="20"/> <sub>· backend in progress</sub>
 
-[Live preview](https://spidosoft-erp-ch48.vercel.app/) · [Repository](https://github.com/AtharvaVavhal/spidosoft-erp) *(private)*
+[Live preview](https://spidosoft-erp-ch48.vercel.app/) · [Repository](https://github.com/AtharvaVavhal/spidosoft-erp) <sub>(private)</sub>
 
 ---
 
@@ -46,9 +62,9 @@ Concretely, that means: a `PaymentAttempt` model with a partial unique index enf
 
 The full module structure, the complete 20-model Prisma schema, and JWT auth infrastructure (rotation, reuse detection, session revocation) are built. Business logic behind each endpoint is the next phase — the services exist as scaffolded stubs, not yet wired to working routes.
 
-`NestJS` `Prisma` `PostgreSQL` `TypeScript` `JWT` — Razorpay integration designed, not yet wired
+<img src="https://img.shields.io/badge/NestJS-141414?style=flat-square&logo=nestjs&logoColor=E0234E" height="20"/> <img src="https://img.shields.io/badge/Prisma-141414?style=flat-square&logo=prisma&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=4169E1" height="20"/> <img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square&logo=typescript&logoColor=3178C6" height="20"/> <img src="https://img.shields.io/badge/JWT-141414?style=flat-square&logo=jsonwebtokens&logoColor=white" height="20"/> <sub>· Razorpay designed, not yet wired</sub>
 
-[Repository](https://github.com/AtharvaVavhal/printforge) *(private)*
+[Repository](https://github.com/AtharvaVavhal/printforge) <sub>(private)</sub>
 
 ---
 
@@ -59,31 +75,69 @@ A hackathon system-design project proposing parcel delivery riding on existing p
 
 Designed around an offline-first mobile client (React Native, WatermelonDB/SQLite) writing to a local outbox first and syncing idempotently to a NestJS/PostgreSQL+PostGIS backend on reconnect, with role-based access for sender, conductor, recipient, and admin inside a single codebase. This is a proposed architecture and hackathon prototype, not a validated production system — presented here as evidence of systems thinking around offline sync, event ordering, and security under unreliable connectivity, not as a finished product.
 
-`React Native` `NestJS` `PostgreSQL` `PostGIS` `WatermelonDB` — hackathon prototype, PS014
+<img src="https://img.shields.io/badge/React_Native-141414?style=flat-square&logo=react&logoColor=61DAFB" height="20"/> <img src="https://img.shields.io/badge/NestJS-141414?style=flat-square&logo=nestjs&logoColor=E0234E" height="20"/> <img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=4169E1" height="20"/> <img src="https://img.shields.io/badge/PostGIS-141414?style=flat-square&logo=postgresql&logoColor=4169E1" height="20"/> <img src="https://img.shields.io/badge/WatermelonDB-141414?style=flat-square&logo=sqlite&logoColor=lightblue" height="20"/> <sub>· hackathon prototype, PS014</sub>
 
 <br/>
 
 ## Technical Stack
 
-**Core Engineering**
-Java · Spring Boot · Spring Security · REST APIs · JPA / Hibernate · PostgreSQL · Docker
-
-**Full-Stack**
-React · TypeScript · Vite · Node.js · NestJS · React Native
-
-**Data**
-PostgreSQL · MySQL · MongoDB · Redis · SQLite · Prisma · PostGIS
-
-**Currently Exploring**
-System Design · Distributed Systems · AI/ML · RAG · LLM Applications
+<table>
+<tr>
+<td width="140" valign="top"><sub><b>CORE</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/Java-141414?style=flat-square&logo=openjdk&logoColor=ED8B00" height="22"/>
+<img src="https://img.shields.io/badge/Spring_Boot-141414?style=flat-square&logo=springboot&logoColor=6DB33F" height="22"/>
+<img src="https://img.shields.io/badge/Spring_Security-141414?style=flat-square&logo=springsecurity&logoColor=6DB33F" height="22"/>
+<img src="https://img.shields.io/badge/REST_APIs-141414?style=flat-square&logo=fastapi&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/Hibernate-141414?style=flat-square&logo=hibernate&logoColor=59666C" height="22"/>
+<img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=4169E1" height="22"/>
+<img src="https://img.shields.io/badge/Docker-141414?style=flat-square&logo=docker&logoColor=2496ED" height="22"/>
+</td>
+</tr>
+<tr>
+<td width="140" valign="top"><sub><b>FULL-STACK</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=61DAFB" height="22"/>
+<img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square&logo=typescript&logoColor=3178C6" height="22"/>
+<img src="https://img.shields.io/badge/Vite-141414?style=flat-square&logo=vite&logoColor=646CFF" height="22"/>
+<img src="https://img.shields.io/badge/Node.js-141414?style=flat-square&logo=nodedotjs&logoColor=339933" height="22"/>
+<img src="https://img.shields.io/badge/NestJS-141414?style=flat-square&logo=nestjs&logoColor=E0234E" height="22"/>
+<img src="https://img.shields.io/badge/React_Native-141414?style=flat-square&logo=react&logoColor=61DAFB" height="22"/>
+</td>
+</tr>
+<tr>
+<td width="140" valign="top"><sub><b>DATA</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=4169E1" height="22"/>
+<img src="https://img.shields.io/badge/MySQL-141414?style=flat-square&logo=mysql&logoColor=4479A1" height="22"/>
+<img src="https://img.shields.io/badge/MongoDB-141414?style=flat-square&logo=mongodb&logoColor=47A248" height="22"/>
+<img src="https://img.shields.io/badge/Redis-141414?style=flat-square&logo=redis&logoColor=DC382D" height="22"/>
+<img src="https://img.shields.io/badge/SQLite-141414?style=flat-square&logo=sqlite&logoColor=lightblue" height="22"/>
+<img src="https://img.shields.io/badge/Prisma-141414?style=flat-square&logo=prisma&logoColor=white" height="22"/>
+<img src="https://img.shields.io/badge/PostGIS-141414?style=flat-square&logo=postgresql&logoColor=4169E1" height="22"/>
+</td>
+</tr>
+<tr>
+<td width="140" valign="top"><sub><b>EXPLORING</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/System_Design-141414?style=flat-square" height="22"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-141414?style=flat-square" height="22"/>
+<img src="https://img.shields.io/badge/AI/ML-141414?style=flat-square" height="22"/>
+<img src="https://img.shields.io/badge/RAG-141414?style=flat-square" height="22"/>
+<img src="https://img.shields.io/badge/LLM_Applications-141414?style=flat-square" height="22"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## Engineering Journey
 
-```
-DSA → OOP → Databases → Backend Development → Spring Boot → Security → System Design → Scalable Systems
-```
+<div align="center">
+
+`DSA` → `OOP` → `Databases` → `Backend Development` → `Spring Boot` → `Security` → `System Design` → `Scalable Systems`
+
+</div>
 
 This is a direction I'm actively working through, not a completed ladder — each project above is chosen to push further along it.
 
@@ -102,3 +156,7 @@ This is a direction I'm actively working through, not a completed ladder — eac
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-vavhal/)
 [![GitHub](https://img.shields.io/badge/GitHub-141414?style=flat-square&logo=github&logoColor=white)](https://github.com/AtharvaVavhal)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AtharvaVavhal&style=flat-square&color=141414&label=profile+views" alt="Profile views" height="20"/>
