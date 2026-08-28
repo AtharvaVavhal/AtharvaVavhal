@@ -241,39 +241,6 @@ The handover mechanism is designed to be verified **on-device**, allowing the wo
 </tr>
 </table>
 
-<br/>
-
-# GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=AtharvaVavhal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-  alt="Atharva's GitHub Stats"
-  width="48%"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaVavhal&layout=compact&hide_border=true&langs_count=8"
-  alt="Atharva's Top Languages"
-  width="48%"
-/>
-
-</div>
-
-<br/>
-
-# Contribution Activity
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/AtharvaVavhal/AtharvaVavhal/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-width="100%"
-/>
-
-</div>
 
 <br/>
 
