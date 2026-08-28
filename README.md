@@ -268,20 +268,6 @@ The handover mechanism is designed to be verified **on-device**, allowing the wo
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/AtharvaVavhal/AtharvaVavhal/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-  width="100%"
-/>
-
-</div>
-
-<br/>
-
-# Contribution Activity
-
-<div align="center">
-
-<img
 src="https://raw.githubusercontent.com/AtharvaVavhal/AtharvaVavhal/output/github-contribution-grid-snake.svg"
 alt="GitHub Contribution Snake"
 width="100%"
