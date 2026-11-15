@@ -8,7 +8,7 @@
 
 <br/>
 
-B.Tech Computer Engineering · VIT Pune · Class of 2029
+B.Tech Computer Software Engineering · VIT Pune · Class of 2029
 
 <br/><br/>
 
