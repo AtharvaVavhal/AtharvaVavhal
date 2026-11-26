@@ -67,7 +67,12 @@ This is an active engineering direction, not a claim of mastery.
 <br/>
 
 # Featured Projects
+
 ## 🏠 Nook
+
+<a href="https://github.com/AtharvaVavhal/Nook-platform">
+<img src="https://raw.githubusercontent.com/AtharvaVavhal/Nook-platform/main/docs/assets/readme-banner.png" width="100%" alt="nook — the hostel and PG management platform"/>
+</a>
 
 **Hostel & PG Management Platform · NestJS · React · PostgreSQL · Prisma**
 
@@ -85,6 +90,8 @@ A platform for hostel and PG operators, built to answer two questions: who is in
 
 Core workflows are built. Pre-release: not deployed to production, and some restricted operations are disabled. "Nook" is a working name.
 
+<br/>
+
 <img src="https://img.shields.io/badge/NestJS-141414?style=flat-square&logo=nestjs&logoColor=E0234E" height="20"/>
 <img src="https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=61DAFB" height="20"/>
 <img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square&logo=typescript&logoColor=3178C6" height="20"/>
@@ -98,6 +105,7 @@ Core workflows are built. Pre-release: not deployed to production, and some rest
 </a>
 
 ---
+
 ## 🏢 Spidosoft ERP
 
 **Enterprise ERP · Java 21 · Spring Boot · React · TypeScript · MySQL**
