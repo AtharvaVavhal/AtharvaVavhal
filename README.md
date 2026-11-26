@@ -67,7 +67,37 @@ This is an active engineering direction, not a claim of mastery.
 <br/>
 
 # Featured Projects
+## 🏠 Nook
 
+**Hostel & PG Management Platform · NestJS · React · PostgreSQL · Prisma**
+
+A platform for hostel and PG operators, built to answer two questions: who is in which bed, and who owes what.
+
+### Engineering
+
+- Modular-monolith NestJS API with a React web app
+- Row locks (`SELECT … FOR UPDATE`) to prevent double-booking of beds
+- Idempotency keys on payments
+- Database triggers that block edits to payment records
+- Organization-scoped tenant isolation
+- Owner and property-manager roles
+- GitHub Actions CI with PostgreSQL integration tests
+
+Core workflows are built. Pre-release: not deployed to production, and some restricted operations are disabled. "Nook" is a working name.
+
+<img src="https://img.shields.io/badge/NestJS-141414?style=flat-square&logo=nestjs&logoColor=E0234E" height="20"/>
+<img src="https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=61DAFB" height="20"/>
+<img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square&logo=typescript&logoColor=3178C6" height="20"/>
+<img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=4169E1" height="20"/>
+<img src="https://img.shields.io/badge/Prisma-141414?style=flat-square&logo=prisma&logoColor=white" height="20"/>
+
+<br/><br/>
+
+<a href="https://github.com/AtharvaVavhal/Nook-platform">
+<img src="https://img.shields.io/badge/Repository-141414?style=for-the-badge&logo=github&logoColor=white" alt="Nook Repository"/>
+</a>
+
+---
 ## 🏢 Spidosoft ERP
 
 **Enterprise ERP · Java 21 · Spring Boot · React · TypeScript · MySQL**
